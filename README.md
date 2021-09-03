@@ -1,6 +1,6 @@
 # FSystemUI<br/>
-A Java UI Framework.<br/>
-It seems an OSX UI controllers and it supports light & dark themes.<br/>
+Java UI Framework.<br/>
+Same OSX UI controllers [Labels, Buttons ...] and it supports light & dark themes.<br/>
 Demo .. <br/>
 light theme .. <br/>
 ![alt text](https://i.imgur.com/wnaskC7.png)<br/>
